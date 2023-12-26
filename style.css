@@ -1,0 +1,64 @@
+
+
+.mainheading {
+    background-color: rgb(119, 116, 116);
+    text-align: center;
+    height: 150pt;
+    width: 1000pt;
+    margin-inline-end: auto;
+    font-size: 40pt;
+    color: black;
+    
+  }
+  
+.row1{
+    color: black;
+    background-color:red;
+    text-align: center;
+    height: 10px;
+    padding: 20px 90px;
+    font-size: 20px;
+    
+}
+.OFF{
+    background-color: rgb(196, 196, 196);
+    text-align: center;
+    height: 40pt;
+    margin-top: 10pt;
+    font-size: 30pt;
+}
+.itemtable{
+    background-color: rgb(14, 3, 6);
+    color: white;
+    border-color: rgb(0, 0, 0);
+    width: 800pt;
+    text-align: center;
+    margin-left: 100pt;
+    height: 80pt;   
+}
+
+
+.item01:hover{
+    background-color: rgb(75, 75, 75);
+}
+.item01:visited{
+    color: white;
+}
+
+
+
+
+.ways{
+    color: red;
+    background-color: black;
+    text-align: center;
+    height: 50px;
+    padding: 20px 30px;
+    margin-top: auto;
+}
+h2{
+    color:black;
+    background-color: red;
+}
+
+
